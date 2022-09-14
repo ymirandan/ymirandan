@@ -1,16 +1,21 @@
-### Hi there 👋
+## Olá! 
 
-<!--
-**ymirandan/ymirandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</h1> Me chamo Yasmin Miranda e estudo Estatística na Universidade Federal do Ceará (UFC). Aos poucos estou compondo meu portfólio voltado para a àrea de dados 😄 </h1>
 
-Here are some ideas to get you started:
+### 📊 Projetos de Análise de Dados
+- Análise Exploratória de Dados
+  - Uso da linguagem R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏫 Uso da linguagem R com foco em
+- Inferência Estatística
+- Técnicas de Amostragem
+- Modelos de Regressão
+- Estatística Não Paramétrica
+- Análise Multivariada
+- Planejamento de Experimentos
+
+### 📚 Produção Acadêmica e Científica
+- [Participação nos Encontros Universitários da UFC, 2021](http://periodicos.ufc.br/eu/article/view/64111)
+  - Tema: Inserção das Mulheres no Ambiente Acadêmico
+  
+  

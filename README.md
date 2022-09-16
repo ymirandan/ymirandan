@@ -7,15 +7,16 @@
   - Uso da linguagem R
 
 ### 🏫 Uso da linguagem R com foco em
-- Inferência Estatística
 - Técnicas de Amostragem
-- Modelos de Regressão
-- Estatística Não Paramétrica
-- Análise Multivariada
-- Planejamento de Experimentos
+<!-- - Inferência Estatística
+Modelos de Regressão
+Estatística Não Paramétrica
+Análise Multivariada
+Planejamento de Experimentos -->
 
 ### 📚 Produção Acadêmica e Científica
-- [Participação nos Encontros Universitários da UFC, 2021](http://periodicos.ufc.br/eu/article/view/64111)
-  - Tema: Inserção das Mulheres no Ambiente Acadêmico
+- Participação nos Encontros Universitários da UFC:
+  - Tema de 2021: [Inserção das Mulheres no Ambiente Acadêmico](http://periodicos.ufc.br/eu/article/view/64111)
+  - Tema de 2022: Estudo do comportamento de itens avaliativos nos períodos pré, durante e após a Pandemia de Covid-19
   
   

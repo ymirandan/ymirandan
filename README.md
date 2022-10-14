@@ -2,13 +2,14 @@
 
 </h1> Me chamo Yasmin Miranda e estudo Estatística na Universidade Federal do Ceará (UFC). Aos poucos estou compondo meu portfólio voltado para a àrea de dados 😄 </h1>
 
-<!-- ### 📊 Projetos de Análise de Dados:
-- Análise de Vendas (Dados Fictícios)
+### 📊 Projetos de Análise de Dados:
+- Análise de Vendas (Dados Fictícios) (https://github.com/ymirandan/projetos/blob/main/Analise%20para%20Aumentar%20%20Vendas%20no%20Py.ipynb)
+<!--
 - Análise   -->
 
-<!-- 
-### 👩‍💻 [Uso da linguagem Python](https://github.com/ymirandan/vida-academica) com foco em
+### 👩‍💻 [Uso da linguagem Python](https://github.com/ymirandan/projetos) com foco em
 - Análise exploratória 
+<!--
 - Teste de Hipóteses
 - Modelos de Regressão
 - Análise Multivariada
@@ -19,10 +20,10 @@
 - Técnicas de Amostragem
 - Teste de Hipóteses
 - Modelos de Regressão
-- Planejamento de Experimentos
-<!-- 
+- Análise Multivariada
+<!--
+- Planejamento de Experimentos 
 Estatística Não Paramétrica
-Análise Multivariada
  -->
 
 ### 📚 Produção Acadêmica e Científica

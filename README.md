@@ -5,14 +5,14 @@
 ### 📊 Projetos de Análise de Dados:
 - Análise para aumento de vendas (Dados Fictícios)
 
-### 👩‍💻 [Uso da linguagem Python](https://github.com/ymirandan/projetos) com foco em
+### 👩‍💻 [Uso da linguagem Python](https://github.com/ymirandan/projetosPython) com foco em
 - Análise exploratória 
 - Teste de Hipóteses
 - Modelos de Regressão
 - Análise Multivariada
 - Aprendizado de Máquina
 
-### 🏫 [Uso da linguagem R](https://github.com/ymirandan/vida-academica) com foco em
+### 🏫 [Uso da linguagem R](https://github.com/ymirandan/projetosR) com foco em
 - Técnicas de Amostragem
 - Teste de Hipóteses
 - Modelos de Regressão

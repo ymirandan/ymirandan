@@ -19,9 +19,10 @@
 - Teste de Hipóteses
 - Modelos de Regressão
 - Análise Multivariada
+<!--
 - Planejamento de Experimentos 
 - Estatística Não Paramétrica
-
+-->
 ### 📚 Produção Acadêmica e Científica
 - Participação nos Encontros Universitários da UFC:
   - Tema de 2021: [Inserção das Mulheres no Ambiente Acadêmico](http://periodicos.ufc.br/eu/article/view/64111)

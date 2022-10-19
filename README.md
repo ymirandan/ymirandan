@@ -7,10 +7,12 @@
 
 ### 👩‍💻 [Uso da linguagem Python](https://github.com/ymirandan/projetosPython) com foco em
 - Análise exploratória 
-- Teste de Hipóteses
-- Modelos de Regressão
-- Análise Multivariada
-- Aprendizado de Máquina
+<!--
+  - Teste de Hipóteses
+  - Modelos de Regressão
+  - Análise Multivariada
+   - Aprendizado de Máquina
+-->
 
 ### 🏫 [Uso da linguagem R](https://github.com/ymirandan/projetosR) com foco em
 - Técnicas de Amostragem

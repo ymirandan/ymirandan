@@ -26,4 +26,4 @@
 ### 📚 Produção Acadêmica e Científica
 - Participação nos Encontros Universitários da UFC:
   - Tema de 2021: [Inserção das Mulheres no Ambiente Acadêmico](http://periodicos.ufc.br/eu/article/view/64111)
-  - Tema de 2022: Estudo do comportamento de itens avaliativos nos períodos pré, durante e após a Pandemia de Covid-19
+  - Tema de 2022: [Estudo do comportamento de itens avaliativos nos períodos pré, durante e após a Pandemia de Covid-19](http://sysprppg.ufc.br/eu/2022/index.php/busque-sua-apresentacao/por-cpf-bolsista)

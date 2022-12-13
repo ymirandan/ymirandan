@@ -4,14 +4,18 @@
 
 ### 📊 Projetos de Análise de Dados:
 - Análise para aumento de vendas (Dados Fictícios)
+- Predição de notas SAT a partir do GPA (Dados Fictícios)
+- Agrupamento de Países (Dados Fictícios)
+
 
 ### 👩‍💻 [Uso da linguagem Python](https://github.com/ymirandan/projetosPython) com foco em
 - Análise exploratória 
+- Modelos de Regressão
+- Aprendizado de Máquina (Machine Learing)
 <!--
   - Teste de Hipóteses
-  - Modelos de Regressão
   - Análise Multivariada
-   - Aprendizado de Máquina
+   
 -->
 
 ### 🏫 [Uso da linguagem R](https://github.com/ymirandan/projetosR) com foco em

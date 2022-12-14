@@ -5,6 +5,7 @@
 ### 📊 Projetos de Análise de Dados:
 - Análise para aumento de vendas (Dados Fictícios)
 - Predição de notas SAT a partir do GPA (Dados Fictícios)
+- Predição de Admissao a partir da nota SAT e do Gênero da pessoa (Dados Fictícios)
 - Agrupamento de Países (Dados Fictícios)
 
 

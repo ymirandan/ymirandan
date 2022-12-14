@@ -12,7 +12,12 @@
 ### 👩‍💻 [Uso da linguagem Python](https://github.com/ymirandan/projetosPython) com foco em
 - Análise exploratória 
 - Modelos de Regressão
+  - Linear Simples
+  - Linear Múltiplo
+  - Logística
+
 - Aprendizado de Máquina (Machine Learing)
+   - K-Means
 <!--
   - Teste de Hipóteses
   - Análise Multivariada
@@ -22,10 +27,13 @@
 ### 🏫 [Uso da linguagem R](https://github.com/ymirandan/projetosR) com foco em
 - Técnicas de Amostragem
 - Teste de Hipóteses
-- Modelos de Regressão
+- Modelos de Regressão 
+  - Linear Simples
+  - Linear Múltiplo
+  - Logística
 - Análise Multivariada
-<!--
-- Planejamento de Experimentos 
+- Planejamento de Experimentos
+<!-- 
 - Estatística Não Paramétrica
 -->
 ### 📚 Produção Acadêmica e Científica

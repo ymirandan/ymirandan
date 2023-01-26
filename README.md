@@ -7,6 +7,7 @@
 - Predição de notas SAT a partir do GPA (Dados Fictícios)
 - Predição de Admissao a partir da nota SAT e do Gênero da pessoa (Dados Fictícios)
 - Agrupamento de Países (Dados Fictícios)
+- Agrupamento de Clientes de um Supermercado (Dados Fictícios)
 
 
 ### 👩‍💻 [Uso da linguagem Python](https://github.com/ymirandan/projetosPython) com foco em

@@ -34,6 +34,7 @@
   - Logística
 - Análise Multivariada
 - Planejamento de Experimentos
+- Análise de Sobrevivência
 <!-- 
 - Estatística Não Paramétrica
 -->

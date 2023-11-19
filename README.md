@@ -39,5 +39,6 @@
 -->
 ### 📚 Produção Acadêmica e Científica
 - Participação nos Encontros Universitários da UFC:
-  - Tema de 2021: [Inserção das Mulheres no Ambiente Acadêmico](http://periodicos.ufc.br/eu/article/view/64111)
-  - Tema de 2022: [Estudo do comportamento de itens avaliativos nos períodos pré, durante e após a Pandemia de Covid-19](http://periodicos.ufc.br/eu/article/view/87885)
+  - Relatório de Análise de Sobrevivência (2023): [Análise de Sobrevivência Sob Enfoque Bayesiano](https://drive.google.com/file/d/1dZR6vYyK5W_71n5TNyX_rv1geiP9Jo4b/view?usp=sharing)
+  - Trabalho apresentado no Encontro Universitário (2022): [Estudo do comportamento de itens avaliativos nos períodos pré, durante e após a Pandemia de Covid-19](http://periodicos.ufc.br/eu/article/view/87885)
+  - Trabalho apresentado no Encontro Universitário (2021): [Inserção das Mulheres no Ambiente Acadêmico](http://periodicos.ufc.br/eu/article/view/64111)

@@ -3,6 +3,8 @@
 </h1> Me chamo Yasmin Miranda e estudo Estatística na Universidade Federal do Ceará (UFC). Aos poucos estou compondo meu portfólio voltado para a àrea de dados 😄 </h1>
 
 ### 📊 Projetos de Análise de Dados:
+- Análise de Sobrevivência de Pacientes com Hepatite Viral Aguda (Dados Reais)
+
 - Análise para aumento de vendas (Dados Fictícios)
 - Predição de notas SAT a partir do GPA (Dados Fictícios)
 - Predição de Admissao a partir da nota SAT e do Gênero da pessoa (Dados Fictícios)

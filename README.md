@@ -20,11 +20,7 @@
 - Aprendizado de Máquina (Machine Learing)
    - K-Means
    - SVM
-<!--
-  - Teste de Hipóteses
-  - Análise Multivariada
-   
--->
+   - Decision Tree
 
 ### 🏫 [Uso da linguagem R](https://github.com/ymirandan/projetosR) com foco em
 - Técnicas de Amostragem

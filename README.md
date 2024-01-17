@@ -4,7 +4,6 @@
 
 ### 📊 Projetos de Análise de Dados:
 - Análise de Sobrevivência de Pacientes com Hepatite Viral Aguda (Dados Reais)
-
 - Análise para aumento de vendas (Dados Fictícios)
 - Predição de notas SAT a partir do GPA (Dados Fictícios)
 - Predição de Admissao a partir da nota SAT e do Gênero da pessoa (Dados Fictícios)
@@ -18,9 +17,9 @@
   - Linear Simples
   - Linear Múltiplo
   - Logística
-
 - Aprendizado de Máquina (Machine Learing)
    - K-Means
+   - SVM
 <!--
   - Teste de Hipóteses
   - Análise Multivariada

@@ -1,6 +1,6 @@
 ## Olá! 
 
-</h1> Me chamo Yasmin Miranda e estudo Estatística na Universidade Federal do Ceará (UFC). Aos poucos estou compondo meu portfólio voltado para a àrea de dados 😄 </h1>
+</h1> Me chamo Yasmin Miranda, sou graduada em Estatística pela Universidade Federal do Ceará (UFC). Aos poucos estou compondo meu portfólio voltado para a àrea de dados 😄 </h1>
 
 ### 📊 Projetos de Análise de Dados:
 - Análise de Sobrevivência de Pacientes com Hepatite Viral Aguda (Dados Reais)

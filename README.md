@@ -21,7 +21,8 @@
    - K-Means
    - SVM
    - Decision Tree
-
+   - Naive Bayes
+   - KNN
 ### 🏫 [Uso da linguagem R](https://github.com/ymirandan/projetosR) com foco em
 - Técnicas de Amostragem
 - Teste de Hipóteses

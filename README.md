@@ -5,8 +5,8 @@
 ### 📊 Projetos de Análise de Dados:
 - Análise de Sobrevivência de Pacientes com Hepatite Viral Aguda (Dados Reais)
 - Análise para aumento de vendas (Dados Fictícios)
-- Predição de notas SAT a partir do GPA (Dados Fictícios)
-- Predição de Admissao a partir da nota SAT e do Gênero da pessoa (Dados Fictícios)
+- Predição de notas SAT (Vestibular dos EUA) a partir do GPA (Dados Fictícios)
+- Predição de Admissao em Faculdade a partir da nota SAT (Vestibular dos EUA) e do Gênero da pessoa (Dados Fictícios)
 - Agrupamento de Países (Dados Fictícios)
 - Agrupamento de Clientes de um Supermercado (Dados Fictícios)
 
@@ -17,7 +17,7 @@
   - Linear Simples
   - Linear Múltiplo
   - Logística
-- Aprendizado de Máquina (Machine Learing)
+- Aprendizado de Máquina
    - K-Means
    - SVM
    - Decision Tree

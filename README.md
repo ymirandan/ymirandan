@@ -1,7 +1,8 @@
 ## Olá! 
 
-</h1> Me chamo Yasmin Miranda, sou graduada em Estatística pela Universidade Federal do Ceará (UFC). Aos poucos estou compondo meu portfólio voltado para a àrea de dados 😄 </h1>
+</h1> Me chamo Yasmin Miranda, sou graduada em Estatística pela Universidade Federal do Ceará (UFC). Aos poucos estou incrementando meu portfólio voltado para a àrea de dados 😄 </h1>
 
+<!-- 
 ### 📊 Projetos de Análise de Dados:
 - Análise de Sobrevivência de Pacientes com Hepatite Viral Aguda (Dados Reais)
 - Análise para aumento de vendas (Dados Fictícios)
@@ -9,9 +10,16 @@
 - Predição de Admissao em Faculdade a partir da nota SAT (Vestibular dos EUA) e do Gênero da pessoa (Dados Fictícios)
 - Agrupamento de Países (Dados Fictícios)
 - Agrupamento de Clientes de um Supermercado (Dados Fictícios)
+-->
 
+### 👩‍💻 [Uso do Power BI](https://github.com/ymirandan/projetos-pbi) em projetos sobre
+- Eleiçoes Municipais no Ceará em 2020 (fonte: TSE)
+- Resultados de uma Varejista Americana (em inglês. fonte: obviEnce)
+<!-- 
+- Veículos Subtraídos em São Paulo entre 2022 e 2023 (fonte: SSP-SP) 
+-->
 
-### 👩‍💻 [Uso da linguagem Python](https://github.com/ymirandan/projetosPython) com foco em
+### 🤖 [Uso da linguagem Python](https://github.com/ymirandan/projetosPython) com foco em
 - Análise exploratória 
 - Modelos de Regressão
   - Linear Simples
@@ -23,6 +31,7 @@
    - Decision Tree
    - Naive Bayes
    - KNN
+
 ### 🏫 [Uso da linguagem R](https://github.com/ymirandan/projetosR) com foco em
 - Técnicas de Amostragem
 - Teste de Hipóteses

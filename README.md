@@ -41,7 +41,7 @@
 - Planejamento de Experimentos
 - Análise de Sobrevivência
 <!-- 
-- Estatística Não Paramétrica
+- Construção de Relatório (RMarkdown)
 -->
 ### 📚 Produção Acadêmica e Científica
 - Participação nos Encontros Universitários da UFC:

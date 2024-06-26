@@ -33,8 +33,12 @@
    - KNN
 
 ### 🏫 [Uso da linguagem R](https://github.com/ymirandan/projetosR) com foco em
+- Probabilidade
+  - Distribuição Poison
+  - Distribuição Uniforme
+- Inferência
+  - Teste de Hipóteses
 - Técnicas de Amostragem
-- Teste de Hipóteses
 - Modelos de Regressão 
   - Linear Simples
   - Linear Múltiplo

@@ -33,14 +33,14 @@
    - KNN
 
 ### 🏫 [Uso da linguagem R](https://github.com/ymirandan/projetosR) com foco em
-- Probabilidade
-- Inferência
-- Técnicas de Amostragem
-- Modelos de Regressão 
-- Análise Multivariada
-- Planejamento de Experimentos
-- Análise de Sobrevivência
 - Construção de Relatório (RMarkdown)
+- Análise de Sobrevivência
+- Análise Multivariada
+- Modelos de Regressão 
+- Planejamento de Experimentos
+- Técnicas de Amostragem
+- Inferência
+- Probabilidade
 
 ### 📚 Produção Acadêmica e Científica
 - Participação nos Encontros Universitários da UFC:

@@ -40,9 +40,8 @@
 - Análise Multivariada
 - Planejamento de Experimentos
 - Análise de Sobrevivência
-<!-- 
 - Construção de Relatório (RMarkdown)
--->
+
 ### 📚 Produção Acadêmica e Científica
 - Participação nos Encontros Universitários da UFC:
   - Relatório de Análise de Sobrevivência (2023): [Análise de Sobrevivência Sob Enfoque Bayesiano](https://drive.google.com/file/d/1dZR6vYyK5W_71n5TNyX_rv1geiP9Jo4b/view?usp=sharing)

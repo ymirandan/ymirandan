@@ -16,9 +16,7 @@
 - Eleiçoes Municipais no Ceará em 2020 (fonte: TSE)
 - Resultados de uma Varejista Americana (em inglês. fonte: obviEnce)
 - Dados Financeiros de uma Varejista Americana (em inglês.)
-<!-- 
-- Veículos Subtraídos em São Paulo entre 2022 e 2023 (fonte: SSP-SP) 
--->
+- [Veículos Subtraídos em São Paulo entre 2022 e 2023 (fonte: SSP-SP)](https://drive.google.com/file/d/1j4dOBk9NToo_uJX6pev7E_zPKLjfbZOk/view?usp=sharing)
 
 ### 🤖 [Uso da linguagem Python](https://github.com/ymirandan/projetosPython) com foco em
 - Análise exploratória 

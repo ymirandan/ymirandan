@@ -30,6 +30,8 @@
    - Decision Tree
    - Naive Bayes
    - KNN
+- Construção de API (Django REST Framework)
+  - API para Escola (Estudantes, Cursos e Matrículas)
 
 ### 🏫 [Uso da linguagem R](https://github.com/ymirandan/projetosR) com foco em
 - Construção de Relatório (RMarkdown)

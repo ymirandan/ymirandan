@@ -19,6 +19,7 @@
 - [Veículos Subtraídos em São Paulo entre 2022 e 2023 (fonte: SSP-SP)](https://drive.google.com/file/d/1j4dOBk9NToo_uJX6pev7E_zPKLjfbZOk/view?usp=sharing)
 
 ### 🤖 [Uso da linguagem Python](https://github.com/ymirandan/projetosPython) com foco em
+- Revisão/Prática no tempo livre 
 - Análise exploratória 
 - Modelos de Regressão
   - Linear Simples

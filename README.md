@@ -1,6 +1,6 @@
 ## Olá! 
 
-</h1> Me chamo Yasmin Miranda, sou graduada em Estatística pela Universidade Federal do Ceará (UFC). Aos poucos estou incrementando meu portfólio voltado para a área de dados 😄 </h1>
+</h1> Me chamo Yasmin Miranda, sou graduada em Estatística pela Universidade Federal do Ceará (UFC) e cientista de dados. Aos poucos estou incrementando meu portfólio voltado para a área de dados 😄 </h1>
 
 <!-- 
 ### 📊 Projetos de Análise de Dados:
@@ -11,12 +11,6 @@
 - Agrupamento de Países (Dados Fictícios)
 - Agrupamento de Clientes de um Supermercado (Dados Fictícios)
 -->
-
-### 👩‍💻 [Uso do Power BI](https://github.com/ymirandan/projetos-pbi) em projetos sobre
-- Eleiçoes Municipais no Ceará em 2020 (fonte: TSE)
-- Resultados de uma Varejista Americana (em inglês. fonte: obviEnce)
-- Dados Financeiros de uma Varejista Americana (em inglês.)
-- [Veículos Subtraídos em São Paulo entre 2022 e 2023 (fonte: SSP-SP)](https://drive.google.com/file/d/1j4dOBk9NToo_uJX6pev7E_zPKLjfbZOk/view?usp=sharing)
 
 ### 🤖 [Uso da linguagem Python](https://github.com/ymirandan/projetosPython) com foco em
 - Revisão/Prática no tempo livre 
@@ -43,6 +37,12 @@
 - Técnicas de Amostragem
 - Inferência
 - Probabilidade
+
+### 👩‍💻 [Uso do Power BI](https://github.com/ymirandan/projetos-pbi) em projetos sobre
+- Eleiçoes Municipais no Ceará em 2020 (fonte: TSE)
+- Resultados de uma Varejista Americana (em inglês. fonte: obviEnce)
+- Dados Financeiros de uma Varejista Americana (em inglês.)
+- [Veículos Subtraídos em São Paulo entre 2022 e 2023 (fonte: SSP-SP)](https://drive.google.com/file/d/1j4dOBk9NToo_uJX6pev7E_zPKLjfbZOk/view?usp=sharing)
 
 ### 📚 Produção Acadêmica e Científica
 - Participação nos Encontros Universitários da UFC:
